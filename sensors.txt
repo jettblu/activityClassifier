@@ -1,0 +1,9 @@
+Sensors: 
+	accelX 
+        accelY 
+        accelZ 
+        gyrX 
+        gyrY 
+        gyrZ
+
+All with an expected sample rate of 200 Hz.
